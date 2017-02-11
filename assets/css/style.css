@@ -4,20 +4,13 @@
 	box-shadow: none;
 }
 
-/*navbar*/
-#logo-nl {
-	margin-left: 30px;
-}
-
-#nav {
-	margin-right: 30px;
-}
 
 /*sidebar*/
 .social {
 	width: 62px;
   	height: 62px;
 }
+
 
 /*footer*/
 .footer {
@@ -27,12 +20,14 @@
 	text-align: center;
 }
 
+
 /*about page*/
 #bio-image {
 	height: 200px;
 	width: 200px;
 	padding-right: 10px;
 }
+
 
 /*portfolio page*/
 .work {
@@ -41,7 +36,7 @@
 	width: 100%;
 }
 
-.thumbnail {
+.placeholder-img {
 	opacity: .7;
 }
 
