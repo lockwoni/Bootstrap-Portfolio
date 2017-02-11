@@ -1,0 +1,56 @@
+/*general*/
+.thumbnail {
+	border: none;
+	box-shadow: none;
+}
+
+/*navbar*/
+#logo-nl {
+	margin-left: 30px;
+}
+
+#nav {
+	margin-right: 30px;
+}
+
+/*sidebar*/
+.social {
+	width: 62px;
+  	height: 62px;
+}
+
+/*footer*/
+.footer {
+	padding: 30px 0;
+	background-color: #2c3e50;
+	border-top: 8px solid #18bc9c;
+	text-align: center;
+}
+
+/*about page*/
+#bio-image {
+	height: 200px;
+	width: 200px;
+	padding-right: 10px;
+}
+
+/*portfolio page*/
+.work {
+	position: relative;
+	margin: 20px 0 25px;
+	width: 100%;
+}
+
+.thumbnail {
+	opacity: .7;
+}
+
+.caption h3 {
+	position: absolute;
+	bottom: 25px;
+	padding: 10px;
+	text-align: center;
+	color:#fff;
+	background: #2c3e50;
+	opacity:.8;
+}
